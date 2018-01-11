@@ -1,0 +1,8 @@
+{
+  "presets": ["react-native"],
+  "sourceMaps": false,
+  "plugins": [
+    "transform-class-properties",
+    "transform-object-rest-spread"
+  ]
+}
